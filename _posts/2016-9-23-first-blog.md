@@ -1,4 +1,10 @@
-#so,here is my blog
+---
+layout: post
+title: here i come!
+---
 
 
-##just don't know what to write...
+so,here is my blog
+
+
+just don't know what to write...
